@@ -3,9 +3,9 @@
   <p align="center">
   <a href="https://linkedin.com/in/danielnunesdc">
     <img alt="Made by Daniel Nunes" src="https://img.shields.io/badge/made%20by-Daniel Nunes-%2300AFA2">
-    <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/danielnunesdc/case_telecom_brisanet?color=00AFA2">
-    <img alt="Project programing languages count" src="https://img.shields.io/github/languages/count/danielnunesdc/case_telecom_brisanet?color=00AFA2">
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielnunesdc/case_telecom_brisanet?color=00AFA2">
+    <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/danielnunesdc/case_telecom?color=00AFA2">
+    <img alt="Project programing languages count" src="https://img.shields.io/github/languages/count/danielnunesdc/case_telecom?color=00AFA2">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielnunesdc/case_telecom?color=00AFA2">
   </a>
 </p>
 
@@ -166,10 +166,10 @@ Contribuições são bem-vindas! Se você quiser sugerir melhorias ou adicionar 
 
 ### 🔄 Status do Projeto
 
-![GitHub Stars](https://img.shields.io/github/stars/danielnunesdc/case_telecom_brisanet)
-![GitHub Forks](https://img.shields.io/github/forks/danielnunesdc/case_telecom_brisanet)
-![GitHub Issues](https://img.shields.io/github/issues/danielnunesdc/case_telecom_brisanet)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/danielnunesdc/case_telecom_brisanet)
+![GitHub Stars](https://img.shields.io/github/stars/danielnunesdc/case_telecom)
+![GitHub Forks](https://img.shields.io/github/forks/danielnunesdc/case_telecom)
+![GitHub Issues](https://img.shields.io/github/issues/danielnunesdc/case_telecom)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/danielnunesdc/case_telecom)
 
 
 --- 
